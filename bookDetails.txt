@@ -1,0 +1,89 @@
+
+
+bookId is: 1
+bookName is: LOSER(Life of Software Engineer)
+writerName is: Dipen Ambalia
+quality is: better
+price is: 200/-
+link is:  https://www.amazon.in/Loser-Dipen-Ambalia/dp/8172343973/ref=mp_s_a_1_3?dchild=1&keywords=life+of+software+engineer&qid=1627103676&sr=8-3
+
+
+bookId is: 2
+bookName is: Man Main Hai Vishwas
+writerName is: Vishwas Nangre Patil
+quality is: best
+price is: 150/-
+link is: https://www.amazon.in/Mann-Mein-Vishwas-Nangre-Patil/dp/8174349626/ref=mp_s_a_1_1?dchild=1&keywords=man+mai+hai+vishvas&qid=1627107301&sr=8-1
+
+
+bookId is: 3
+bookName is: The Art of Readimg Minds
+writerName is: Henrik Fexeus
+quality is: good
+price is: 250/-
+link is: https://www.amazon.in/Art-Reading-Minds-1/dp/8131908496/ref=asc_df_8131908496/?tag=googleshopmob-21&linkCode=df0&hvadid=397142255662&hvpos=&hvnetw=g&hvrand=7698923999616221411&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9302152&hvtargid=pla-922129212841&psc=1&ext_vrnc=hi
+
+
+bookId is: 4
+bookName is: Think and Grow Rich
+writerName is: Napoleon Hill
+quality is: Good
+price is: 100/-
+link is: https://www.amazon.in/Think-Grow-Rich-Napoleon-Hill/dp/817234564X/ref=asc_df_817234564X/?tag=googleshopmob-21&linkCode=df0&hvadid=397154498330&hvpos=&hvnetw=g&hvrand=7698923999616221411&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9302152&hvtargid=pla-327004715682&psc=1&ext_vrnc=hi
+
+
+bookId is: 5
+bookName is: Chase Your Life Dreams
+writerName is: Alka Dixit
+quality is: BBetter
+price is: 150/-
+link is: https://www.amazon.in/Chase-Your-Life-Dreams-Dixit/dp/938702282X/ref=asc_df_938702282X/?tag=googleshopmob-21&linkCode=df0&hvadid=397023450664&hvpos=&hvnetw=g&hvrand=7698923999616221411&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9302152&hvtargid=pla-846391180203&psc=1&ext_vrnc=hi
+
+
+bookId is: 6
+bookName is: Chanakya Niti(Marathi)
+writerName is: Ashwini Parashar
+quality is: better
+price is: 160/-
+link is: https://www.amazon.in/dp/8128818171/ref=cm_sw_r_wa_apa_glc_fabc_62TGBP6JXJRHMP31FPYQ
+
+
+bookId is: 7
+bookName is: Budhbhushan
+writerName is: Prabhakar Takwale
+quality is: best
+price is: 300/-
+link is: https://www.amazon.in/dp/B01HEV9DBO/ref=cm_sw_r_wa_apa_glc_fabc_D36C489JWY57CRWB9Y0A
+
+
+bookId is: 8
+bookName is: Mrutyunay
+writerName is: Shivaji Sawant
+quality is: best
+price is: 370/-
+link is: https://www.amazon.in/dp/8174210105/ref=cm_sw_r_wa_apa_glc_fabc_9VNKE8D65CWZ7BQNKDD2
+
+
+bookId is: 9
+bookName is: Chhava(Marathi)
+writerName is: Shivaji Sawant
+quality is: Perfect
+price is: 145/-
+link is: https://www.amazon.in/dp/9353171210/ref=cm_sw_r_wa_apa_glc_fabc_8FKVNAJFPK6063A1HNJ0
+
+
+bookId is: 10
+bookName is: Bhagwad Gita(Marathi)
+writerName is:  A. C. Bhaktivedant Swami Prabhupad
+quality is: best
+price is: 145/-
+link is: https://www.amazon.in/dp/B07P5LT84P/ref=cm_sw_r_wa_apa_glc_fabc_JED8TRA53FNF5HJHWEHM
+
+
+bookId is: 11
+bookName is: yuguhb
+writerName is: mkkm k,njjhbm
+quality is:  hh nnm n
+price is: 5847
+link is: 2523225
+
